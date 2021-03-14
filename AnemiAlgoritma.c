@@ -1,15 +1,15 @@
-/**************************************************************************
-**	@title Anemi olasýlýðý hesaplayan program                            **
+/******************************************************************************
+**	@title Anemi olasiligi hesaplayan program                            **
 **	@version 1.0.0                                                       **
-**  @date 15.11.2019                                                     **
-**	@author Görkem Aktaþ                                                 **
-**	Program algoritmasý:                                                 **
-**	Rastgele sayýlar içeren matris içerisinden istenen satýrý buluyor    **
-**	Bulamazsa en yakýn olanýný bulup benzerlik oranýný veriyor           **
+**      @date 15.11.2019                                                     **
+**	@author GÃ¶rkem AktaÃ¾                                                 **
+**	Program algoritmasÃ½:                                                 **
+**	Rastgele sayÃ½lar iÃ§eren matris iÃ§erisinden istenen satÃ½rÃ½ buluyor    **
+**	Bulamazsa en yakÃ½n olanÃ½nÃ½ bulup benzerlik oranÃ½nÃ½ veriyor           **
 **	                                                                     **
-**	                                  						             ** 
-**                                                                       **
-***************************************************************************/
+**	                                				     ** 
+**                                                                           **
+*******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
